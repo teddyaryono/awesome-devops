@@ -3,4 +3,4 @@
 A curated list of DevOps resources, tools, technologies, etc.
 
 ## Patterns
-- Hands-off: Automating continuous delivery pipelines at Amazon ([video](https://youtu.be/ngnMj1zbMPY))
+- Automating safe, hands-off deployments ([video](https://youtu.be/ngnMj1zbMPY), [article](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/))
