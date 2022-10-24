@@ -10,3 +10,4 @@ A curated list of DevOps resources, tools, technologies, etc.
 - Amazon’s approach to failing successfully ([video](https://youtu.be/yQiRli2ZPxU))
 - Amazon's approach to high-availability deployment ([video](https://youtu.be/bCgD2bX1LI4))
 - Releasing Mission-Critical Software at Amazon ([video](https://youtu.be/I61KKO1rAQ8))
+- Architectural Decision Records (ADR) ([article](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html))
