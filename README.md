@@ -13,3 +13,4 @@ A curated list of DevOps resources, tools, technologies, etc.
 - Architectural Decision Records (ADR) ([article](https://docs.aws.amazon.com/prescriptive-guidance/latest/architectural-decision-records/welcome.html))
 - Overview of Deployment Options on AWS ([article](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html))
 - Introduction to DevOps on AWS ([article](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/welcome.html))
+- Making retries safe with idempotent APIs ([article](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs))
