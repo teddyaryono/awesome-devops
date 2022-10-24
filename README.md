@@ -14,3 +14,4 @@ A curated list of DevOps resources, tools, technologies, etc.
 - Overview of Deployment Options on AWS ([article](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/welcome.html))
 - Introduction to DevOps on AWS ([article](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/welcome.html))
 - Making retries safe with idempotent APIs ([article](https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs))
+- Implementing health checks ([article](https://aws.amazon.com/builders-library/implementing-health-checks))
